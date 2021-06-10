@@ -175,6 +175,9 @@
         right: 1rem;
     }
 
+    .testimonial{
+        min-width: 12rem;
+    }
 
     .testimonial-first{
         margin-right :1rem;
